@@ -1,5 +1,6 @@
 /**
  * Retrieves a list of students.
+ * @author Karim Awudulai <https://github.com/KingStaff>
  * @returns {{id: Number, firstName: String, location: String}[]}
  */
 export default function getListStudents() {
